@@ -1,2 +1,14 @@
 # day1-linux-commands
-concepts like basic linux commands and gifts version control systems
+## basic linux commands
+- pwd
+- ls
+- cd path
+- cd ../
+- mkdir foldername
+- rmdir foldername
+- rm filename
+- touch filename
+- nano filename
+- cat filename
+- python filename
+- clear
